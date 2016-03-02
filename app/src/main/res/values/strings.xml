@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="main.input.message">Ingrese una ciudad</string>
+    <string name="main.button.submit">Enviar</string>
+    <string name="main.message.temp">%1$s \u2103</string>
+    <string name="main.message.condition">Lluvia ligera</string>
+    <string name="main.message.min">Min: %1$s \u2103</string>
+    <string name="main.message.max">Max: %1$s \u2103</string>
+    <string name="main.message.sunrise">Salida de sol: %1$s AM</string>
+    <string name="main.message.sunset">Puesta de sol: %1$s PM</string>
+
+    <string name="app_name1">WeatherApp</string>
+    <string name="main.input.message1">Ingrese una ciudad</string>
+    <string name="main.button.submit1">Enviar</string>
+    <string name="main.message.temp1">%1$s \u2103</string>
+    <string name="main.message.condition1">Lluvia ligera</string>
+    <string name="main.message.min1">Min: %1$s \u2103</string>
+    <string name="main.message.max1">Max: %1$s \u2103</string>
+    <string name="main.message.sunrise1">Salida de sol: %1$s AM</string>
+    <string name="main.message.sunset1">Puesta de sol: %1$s PM</string>
+</resources>
